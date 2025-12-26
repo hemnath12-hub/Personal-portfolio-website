@@ -23,9 +23,3 @@ A responsive and modern personal portfolio website built using **HTML, CSS, and 
 
 ## 🎯 Purpose
 This portfolio website acts as a digital resume to present my technical skills and projects in a professional manner. It also demonstrates my understanding of front-end web development and UI design principles.
-
-## 📸 Preview
-("C:\Users\RADHIGA\Videos\Captures\My Portfolio - Profile 1 - Microsoft​ Edge 2025-12-26 11-55-29.mp4")
-
-## 📄 License
-This project is open-source and created for learning and personal branding purposes.
